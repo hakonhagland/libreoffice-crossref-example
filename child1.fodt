@@ -278,7 +278,7 @@
    <text:p text:style-name="P1">The start of child1</text:p>
    <text:p text:style-name="P1"/>
    <text:section text:style-name="Sect1" text:name="Section1">
-    <text:p text:style-name="P2">This is Section1 from child1</text:p>
+    <text:p text:style-name="P2">This is Section1 from child1. See the cat: <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure0">Figure 1</text:sequence-ref></text:p>
    </text:section>
    <text:p text:style-name="P1"/>
   </office:text>
